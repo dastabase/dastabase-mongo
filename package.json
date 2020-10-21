@@ -1,0 +1,35 @@
+{
+  "name": "dastabase-mongo",
+  "version": "0.0.1",
+  "description": "A highly opinionated framework for mongodb",
+  "main": "dist/index",
+  "types": "dist/index",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dastabase/dastabase-mongo.git"
+  },
+  "keywords": [
+    "mongodb",
+    "ODM",
+    "ORM",
+    "framework"
+  ],
+  "author": "akterstack@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dastabase/dastabase-mongo/issues"
+  },
+  "homepage": "https://github.com/dastabase/dastabase-mongo#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint": "^7.11.0",
+    "eslint-config-prettier": "^6.14.0",
+    "eslint-plugin-node": "^11.1.0",
+    "prettier": "^2.1.2",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
